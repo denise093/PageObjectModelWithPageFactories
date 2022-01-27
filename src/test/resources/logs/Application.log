@@ -1,0 +1,3 @@
+INFO    2022-01-27 20:23:01,930 [main] base.Page  - Launching Chrome
+INFO    2022-01-27 20:23:07,278 [main] base.Page  - Navigated to : https://www.expedia.com/
+INFO    2022-01-27 20:23:10,909 [main] base.Page  - Clicking on Element: [[ChromeDriver: chrome on WINDOWS (12413c941acdbd8cc646be1a0a3d07ca)] -> xpath: //button[contains(text(),'Sign in')]]
